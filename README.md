@@ -1,8 +1,7 @@
 ### Hi Mate, Thankyou for your valuable time on this profile 👋
 
-Arpit has an extensive experience in Information Security domain with the knowledge of building security measures and initiatives.
+Arpit has an extensive experience of 6+ years in Information Security domain with the knowledge of building security measures and initiatives.
 
- • 6+ years of working domain in Cyber Secuirty.
  • Certified Ethical Hacker v9 – 2016
  • CompTIA Security+ - 2020
  • Azure Security Engineer (AZ-500) - 2020
