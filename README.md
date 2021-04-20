@@ -2,10 +2,10 @@
 
 Arpit has an extensive experience of 6+ years in Information Security domain with the knowledge of building security measures and initiatives.
 
- • Certified Ethical Hacker v9 – 2016
- • CompTIA Security+ - 2020
- • Azure Security Engineer (AZ-500) - 2020
- • Azure Security Fundamentals (AZ-900) - 2020
+ <pre>• Certified Ethical Hacker v9 – 2016 </pre>
+ <pre>• CompTIA Security+ - 2020</pre>
+ <pre>• Azure Security Engineer (AZ-500) - 2020</pre>
+ <pre>• Azure Security Fundamentals (AZ-900) - 2020</pre>
 
  Key Skills:
 
