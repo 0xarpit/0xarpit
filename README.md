@@ -23,7 +23,7 @@ Arpit has an extensive experience of 6+ years in Information Security domain wit
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3r0ot&label=Profile%20views&color=0e75b6&style=flat" alt="th3r0ot" /> </p>
 <p align="left"> <a href="https://twitter.com/th3r0ot" target="blank"><img src="https://img.shields.io/twitter/follow/th3r0ot?logo=twitter&style=for-the-badge" alt="th3r0ot" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Th3R0oT](https://github.com/Th3R0oT)
+- 👨‍💻 All of my projects are available at [https://github.com/0xarpit](https://github.com/0xarpit)
 
 - 💬 Ask me about **anything in cyber security to create or boost your career**
 
