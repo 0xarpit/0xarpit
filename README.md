@@ -1,5 +1,5 @@
 <h1 align="center">Hi Mate 👋, Thankyou for your valuable time on my profile :bowtie:</h1>
-Arpit has an extensive experience of 6+ years in Information Security domain with the knowledge of building security measures and initiatives. I'm having working experience with vulnerability assessment and penetration testing for Banking, Insurance, Finance, E-commerce and Educational clients. Arpit has an ebility to perform penetration testing against Web Application, Mobile Application (Android,iOS), Web services, Network Penetration Testing, Mulnerability Management, Risk Assessment, Risk Management, Threat Modeling, DevSecOps along with Host base security assessment for Linux (RHEL, Solaris, Ubuntu, IBM AIX, SUSE Linux) and Windows environment on the basis of CIS Benchmark with the help of Bash/Powershell scripts.<br />
+Arpit has an extensive experience of 8 years in Information Security domain with the knowledge of building security measures and initiatives. I'm having working experience with vulnerability assessment and penetration testing for Banking, Insurance, Finance, E-commerce and Educational clients. Arpit has an ebility to perform penetration testing against Web Application, Mobile Application (Android,iOS), Web services, Network Penetration Testing, Mulnerability Management, Risk Assessment, Risk Management, Threat Modeling, DevSecOps along with Host base security assessment for Linux (RHEL, Solaris, Ubuntu, IBM AIX, SUSE Linux) and Windows environment on the basis of CIS Benchmark with the help of Bash/Powershell scripts.<br />
 
 <b>Certifications:</b> <br />
 
@@ -7,6 +7,7 @@ Arpit has an extensive experience of 6+ years in Information Security domain wit
 • CompTIA Security+ - 2020 <br />
 • Azure Security Engineer (AZ-500) - 2020 <br />
 • Azure Security Fundamentals (AZ-900) - 2020 <br />
+• Certified AppSec Practionar (CAP) - 2023 <br />
 
  <b>Key Skills:</b><br />
 
