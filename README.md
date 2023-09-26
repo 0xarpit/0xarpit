@@ -3,11 +3,11 @@ Arpit has an extensive experience of 8 years in Information Security domain with
 
 <b>Certifications:</b> <br />
 
-• Certified Ethical Hacker v9 – 2016 <br />
+• Certified AppSec Practionar (CAP) - 2023 <br />
 • CompTIA Security+ - 2020 <br />
 • Azure Security Engineer (AZ-500) - 2020 <br />
 • Azure Security Fundamentals (AZ-900) - 2020 <br />
-• Certified AppSec Practionar (CAP) - 2023 <br />
+• Certified Ethical Hacker v9 – 2016 <br />
 
  <b>Key Skills:</b><br />
 
