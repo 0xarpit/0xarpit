@@ -1,5 +1,16 @@
 <h1 align="center">Hello 👋, Nice to meet you :bowtie:</h1>
-Arpit has an extensive experience of 9 years in Information Security domain with the knowledge of building security measures and initiatives. I'm having working experience with vulnerability assessment and penetration testing for Banking, Insurance, Finance, E-commerce and Educational clients. Arpit has an ebility to perform penetration testing against Web Application, Mobile Application (Android,iOS), Web services, Network Penetration Testing, Mulnerability Management, Risk Assessment, Risk Management, Threat Modeling, DevSecOps along with Host base security assessment for Linux (RHEL, Solaris, Ubuntu, IBM AIX, SUSE Linux) and Windows environment on the basis of CIS Benchmark with the help of Bash/Powershell scripts.<br />
+As a Product Security Specialist with over 10+ years of experience, I focus on application security assessments, secure code review, and implementing security measures in alignment with compliance and industry best practices. Arpit is work is driven by a commitment to fostering secure development practices, collaborating with teams to integrate security into architecture, and mentoring colleagues to build robust security knowledge. I stay vigilant in monitoring emerging threats, providing actionable insights, and driving initiatives to enhance organizational security posture.
+
+•	Application Security (Web and Mobile)
+•	Web Services Security/API's
+•	Network Security & Infrastructure Audit with CIS Benchmark 
+•	Source Code Review
+•	Vulnerability and Threat Management
+•	Threat Modeling / Architecture Review (SDLC)
+•	Vendor Risk Assessment/Risk management
+•	DevSecOps & Cloud Security (AWS)
+
+Arpit is always interested to hear from colleagues, managers or interesting creative folk, so feel free to contact if you’d like to connect.<br />
 
 <b>Certifications:</b> <br />
 
@@ -8,21 +19,6 @@ Arpit has an extensive experience of 9 years in Information Security domain with
 • Azure Security Engineer (AZ-500) - 2020 <br />
 • Azure Security Fundamentals (AZ-900) - 2020 <br />
 • Certified Ethical Hacker v9 – 2016 <br />
-
- <b>Key Skills:</b><br />
-
- • Application Security (Web and Mobile) <br />
- • Web Services Security <br />
- • Network Security <br />
- • Infrastructure Audit with CIS Benchmark and PCI-DSS compliance <br />
- • Source Code Review (Automated) <br />
- • Vulnerability and Threat Management <br />
- • Threat Modeling, Threat Analysis with PASTA and TRIKE <br />
- • Vendor Risk Assessment/Risk management <br />
- • Created an automated vulnerability assessment process with Jenkins and OWASP ZAP as per DevSecOps pipeline. <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th3r0ot&label=Profile%20views&color=0e75b6&style=flat" alt="th3r0ot" /> </p>
-<p align="left"> <a href="https://twitter.com/th3r0ot" target="blank"><img src="https://img.shields.io/twitter/follow/th3r0ot?logo=twitter&style=for-the-badge" alt="th3r0ot" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xarpit](https://github.com/0xarpit)
 
