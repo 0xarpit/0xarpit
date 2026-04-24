@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, Nice to meet you :bowtie:</h1>
-As a Product Security Specialist with over 10+ years of experience, I focus on application security assessments, secure code review, and implementing security measures in alignment with compliance and industry best practices. Arpit is work is driven by a commitment to fostering secure development practices, collaborating with teams to integrate security into architecture, and mentoring colleagues to build robust security knowledge. I stay vigilant in monitoring emerging threats, providing actionable insights, and driving initiatives to enhance organizational security posture.<br />
+As a Product Security Specialist with over 10+ years of experience, I focus on application security assessments, secure code review, and implementing security measures in alignment with compliance and industry best practices. Arpit is work is driven by a commitment to fostering secure development practices, collaborating with teams to integrate security into architecture, and mentoring colleagues to build robust security knowledge. I stay vigilant in monitoring emerging threats, providing actionable insights, and driving initiatives to enhance organizational security posture. <br />
 
 •	Application Security (Web and Mobile) <br />
 •	Web Services Security/API's <br />
