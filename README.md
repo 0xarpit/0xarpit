@@ -10,8 +10,6 @@ As a Product Security Specialist with over 10+ years of experience, I focus on a
 •	Vendor Risk Assessment/Risk management <br />
 •	DevSecOps & Cloud Security (AWS) <br />
 
-Arpit is always interested to hear from colleagues, managers or interesting creative folk, so feel free to contact if you’d like to connect.<br />
-
 <b>Certifications:</b> <br />
 
 • Certified AppSec Practionar (CAP) - 2023 <br />
@@ -19,6 +17,8 @@ Arpit is always interested to hear from colleagues, managers or interesting crea
 • Azure Security Engineer (AZ-500) - 2020 <br />
 • Azure Security Fundamentals (AZ-900) - 2020 <br />
 • Certified Ethical Hacker v9 – 2016 <br />
+
+Arpit is always interested to hear from colleagues, managers or interesting creative folk, so feel free to contact if you’d like to connect.<br />
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xarpit](https://github.com/0xarpit)
 
