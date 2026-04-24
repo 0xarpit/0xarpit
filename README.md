@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, Nice to meet you :bowtie:</h1>
-As a Product Security Specialist with over 10+ years of experience, I focus on application security assessments, secure code review, and implementing security measures in alignment with compliance and industry best practices. Arpit is work is driven by a commitment to fostering secure development practices, collaborating with teams to integrate security into architecture, and mentoring colleagues to build robust security knowledge. I stay vigilant in monitoring emerging threats, providing actionable insights, and driving initiatives to enhance organizational security posture.
+As a Product Security Specialist with over 10+ years of experience, I focus on application security assessments, secure code review, and implementing security measures in alignment with compliance and industry best practices. Arpit is work is driven by a commitment to fostering secure development practices, collaborating with teams to integrate security into architecture, and mentoring colleagues to build robust security knowledge. I stay vigilant in monitoring emerging threats, providing actionable insights, and driving initiatives to enhance organizational security posture.<br />
 
-•	Application Security (Web and Mobile)
-•	Web Services Security/API's
-•	Network Security & Infrastructure Audit with CIS Benchmark 
-•	Source Code Review
-•	Vulnerability and Threat Management
-•	Threat Modeling / Architecture Review (SDLC)
-•	Vendor Risk Assessment/Risk management
-•	DevSecOps & Cloud Security (AWS)
+•	Application Security (Web and Mobile) <br />
+•	Web Services Security/API's <br />
+•	Network Security & Infrastructure Audit with CIS Benchmark <br />
+•	Source Code Review <br />
+•	Vulnerability and Threat Management <br />
+•	Threat Modeling / Architecture Review (SDLC) <br />
+•	Vendor Risk Assessment/Risk management <br />
+•	DevSecOps & Cloud Security (AWS) <br />
 
 Arpit is always interested to hear from colleagues, managers or interesting creative folk, so feel free to contact if you’d like to connect.<br />
 
